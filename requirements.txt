@@ -1,0 +1,14 @@
+streamlit
+pdfplumber
+sentence_transformers
+langchain
+faiss-cpu
+transformers
+ragatouille
+matplotlib
+langchain_community
+bitsandbytes
+accelerate>=0.26.0
+langchain-huggingface
+
+
