@@ -1,25 +1,20 @@
----
-title: Learn About Me RAG
-emoji: 👁
-colorFrom: indigo
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: app.py
-pinned: false
-short_description: Get to know about be by chatting
----
 
+## Project Overview :
 
-## This is code of my hugging face spaces https://huggingface.co/spaces/Benfou21/Learn_about_me_RAG
+This project is built with Streamlit to showcase a chatbot that leverages Retrieval-Augmented Generation (RAG) to answer questions based on my portfolio and experiences. The RAG system integrates a FAISS-based document retrieval system and a pre-trained language model (LLM) for generating contextually accurate responses.
 
-## Usage :
-
+## Usage
+- Go to my space : https://huggingface.co/spaces/Benfou21/Learn_about_me_RAG
+- Restart the space if needed it and enter the mdp "ben".
 - You can directly ask question about me in the chatbot section.
 
+## Technologies Used
 
-## Detailled 
+- Streamlit: For building the web interface.
+- Langchain: For document processing and retrieval.
+- FAISS: For fast similarity searches across document embeddings.
+- Hugging Face Transformers: For embedding documents and generating answers using large language models.
+- PyTorch: For model execution and quantization.
 
-Comming...
-
-Fourreau Benjamin
+## Contact 
+For any inquiries or further information, contact Benjamin at benjamin.fourreau.epm@outlook.fr
