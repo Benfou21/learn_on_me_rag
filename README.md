@@ -1,10 +1,9 @@
-Hey
+
 ## Project Overview :
 
 This project is built with Streamlit to showcase a chatbot that leverages Retrieval-Augmented Generation (RAG) to answer questions based on my portfolio and experiences. The RAG system integrates a FAISS-based document retrieval system and a pre-trained language model (LLM) for generating contextually accurate responses.
 
 ## Usage
-- Go to my space : https://huggingface.co/spaces/Benfou21/Learn_about_me_RAG
 - Restart the space if needed it and enter the mdp "ben".
 - You can directly ask question about me in the chatbot section.
 
